@@ -20,11 +20,11 @@ My repositories span AI learning, language education, productivity, data explora
 ---
 
 <p align="center">
-  <a href="https://unsplash.com/s/photos/data-visualization">
-    <img src="https://images.unsplash.com/photo-1644088379091-d574269d422f?fm=jpg&ixlib=rb-4.0.3&q=80&w=1800" alt="Abstract blue network visualization representing ideas and information" width="100%" />
+  <a href="https://unsplash.com/photos/laptop-with-code-headphones-phone-and-mouse-on-desk-41cG8-U74lc">
+    <img src="https://images.unsplash.com/photo-1763568258320-c954a19683e3?auto=format&fit=crop&w=1800&q=80" alt="Laptop, headphones, and phone arranged on a desk beside a code editor" width="100%" />
   </a>
 </p>
-<p align="center"><sub>Visual metaphor for learning, data, and connected ideas · <a href="https://unsplash.com/s/photos/data-visualization">Unsplash</a></sub></p>
+<p align="center"><sub>Coding workspace photograph by <a href="https://unsplash.com/photos/laptop-with-code-headphones-phone-and-mouse-on-desk-41cG8-U74lc">Daniil Komov on Unsplash</a></sub></p>
 
 ## Areas I explore
 
@@ -129,3 +129,4 @@ I also write about experiences, learning, and personal growth on [APEX CURRENT](
 Thanks for visiting — I’m learning by building, one project at a time.
 
 </div>
+
